@@ -1,0 +1,14 @@
+.intestazione{
+    background-color: lightskyblue;
+    text-align: center;
+    border-style: solid;
+    border-color: cornflowerblue;
+    border-width: 5px;
+    padding: 10px;
+
+    border-radius: 50px;
+}
+.nav-link{
+    font-size: 20px;
+    color: darkblue;
+}
